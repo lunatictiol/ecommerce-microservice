@@ -31,7 +31,9 @@ Start the Eureka server, Config server, and other services in the following orde
 5. Order Service
 6. Payment Service
 7. Email Service
+## Acknowledgments
 
+This project was inspired by a tutorial by @BoualiAli. Their content provided valuable insights and guidance throughout the development process.
 
 
 
